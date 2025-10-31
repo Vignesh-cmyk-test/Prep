@@ -20,8 +20,8 @@ public class Fibonacci {
 			 
 			 System.out.print(" "+ next);
 			
-		}
+		  }
 
-	}
+	  }
 
-}
+   }
